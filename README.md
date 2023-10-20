@@ -4,7 +4,7 @@
 - 👀 I'm researching on **posit-based hardware as well as its application in deep learning**.
 - 🤔 I'm currently working on the **integration of Posit format with RISC-V**.
 - 🔭 My main coding language is **Verilog/SystemVerilog**, but I'm also familiar with C, Python, MATLAB, etc.
-- 💬 Ask me abount ...
+- 💬 Ask me about ...
 
 [![My Github Data](https://github-readme-stats.vercel.app/api?username=qleenju)](https://github.com/qleenju)
 
