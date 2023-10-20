@@ -1,9 +1,9 @@
 ### 👋 Hi there, this is Qiong Li.
 
-- 🌱 I'm a graduate student at [School of Electronic Science & Engineering](https://ese.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), major in Integrated Circuit Engineering.
-- 👀 I'm researching on posit-based hardware as well as its application in deep learning.
-- 🤔 I'm currently working on the integration of posit format with RISC-V.
-- 🔭 My main coding language is Verilog/SystemVerilog, but I'm also familiar with C, Python, MATLAB, etc.
+- 🌱 I'm a graduate student at ICAIS Lab @ Nanjing University, majoring in Integrated Circuit Engineering.
+- 👀 I'm researching on **posit-based hardware as well as its application in deep learning**.
+- 🤔 I'm currently working on the **integration of Posit format with RISC-V**.
+- 🔭 My main coding language is **Verilog/SystemVerilog**, but I'm also familiar with C, Python, MATLAB, etc.
 - 💬 Ask me abount ...
 
 [![My Github Data](https://github-readme-stats.vercel.app/api?username=qleenju)](https://github.com/qleenju)
