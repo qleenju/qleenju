@@ -6,8 +6,6 @@
 - 🔭 My main coding language is **Verilog/SystemVerilog**, but I'm also familiar with C, Python, MATLAB, etc.
 - 💬 Ask me about ...
 
-[![My Github Data](https://github-readme-stats.vercel.app/api?username=qleenju)](https://github.com/qleenju)
-
 <!--
 **qleenju/qleenju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![My Github Data](https://github-readme-stats.vercel.app/api?username=qleenju)](https://github.com/qleenju)
+
 -->
